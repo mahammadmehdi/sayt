@@ -1,0 +1,165 @@
+.navbar{
+height: 72px;
+border: 1px solid rgb(5, 5, 49);
+background-color: rgb(5, 5, 49);
+color: white;
+display: flex;
+justify-content: space-around;
+align-items:center;
+
+}
+
+.yazi ul{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
+.yazi ul li {
+    margin: 10px;
+    
+}
+.yazi ul li a{
+    color: white;
+}
+
+
+
+
+.boot{
+    height: 900px;
+border: 1px solid rgb(16, 150, 110);
+background-color: rgb(16, 150, 110);
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-direction: column;
+
+
+
+}
+
+.sekil{
+    width: 400px;
+    height: 400px;
+    margin-top:70px ;
+    margin-left: 30px;
+}
+.men{
+    font-size: 82px;
+    margin-top: -10px;
+}
+
+.icon{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    margin-left: -30px;
+}
+.sen{
+
+    font-size: 20px;
+}
+
+
+
+li:hover{
+    color: rgb(16, 150, 110);
+    cursor: pointer;
+}
+
+.se{
+    height: 900px;
+    border: 1px solid rgb(250, 250, 250);
+    background-color: rgb(253, 253, 253);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    }
+
+
+.sect{
+    height: 900px;
+border: 1px solid rgb(250, 250, 250);
+background-color: rgb(253, 253, 253);
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-direction: column;
+}
+
+.o{
+    
+    font-size: 50px;
+    padding-top: 30px;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.ico{
+    margin-bottom: 0px;
+    font-size: 30px;
+    max-width: 1000px;
+    max-height: 1000px;
+}
+ .image{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    object-fit: cover;
+
+ }
+
+ .image1{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    object-fit: cover;
+    
+ }
+
+ .image2{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    object-fit: cover;
+    
+ }
+ .image3{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    object-fit: cover;
+    
+ }
+
+ .image4{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    object-fit: cover;
+    
+ }
+
+ .image5{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    object-fit: cover;
+    
+ }
+
+ .dur{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+ }
